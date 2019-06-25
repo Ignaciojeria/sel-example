@@ -47,5 +47,4 @@ public class DemoApplication {
         chromeDriver.findElement(By.className("gLFyf")).sendKeys("Hola Mundo Desde chrome");
     }
 
-
 }
